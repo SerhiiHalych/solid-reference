@@ -1,0 +1,1 @@
+This is example of enhancing the codebase with SOLID principles step-by-step up to the point where all principles are followed 
